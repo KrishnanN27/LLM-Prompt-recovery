@@ -1,9 +1,3 @@
-readme.txt
-
-Name and CSM ID:
-- Name: Sowndarya Krishnan Navaneetha Kannan
-- CSM ID: 10907259
-
 Programming Language:
 - Python
 
