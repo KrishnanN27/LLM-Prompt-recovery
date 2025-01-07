@@ -1,0 +1,14 @@
+.git/*
+# Ignore model directories
+2000-gpt2-finetuned-rewrite/
+gpt2-finetuned-rewrite/
+v2-gpt2-finetuned-rewrite/
+
+# Ignore all dotfiles
+.*
+
+# Ignore PDFs
+*.pdf
+
+# Exclude .gitignore itself
+!.gitignore
